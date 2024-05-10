@@ -1,13 +1,13 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import App from './App.jsx'
-import './index.css'
 import { Route, RouterProvider, createBrowserRouter, createRoutesFromElements } from 'react-router-dom'
 import Layout from './Layout.jsx'
-import Home from './components/Home/Home.jsx'
 import About from './components/About/About.jsx'
 import Contact from './components/Contactus/Contact.jsx'
 import Github from './components/Github/Github.jsx'
+import Home from './components/Home/Home.jsx'
+import Projects from './components/Projects/Project.jsx'
+import './index.css'
 
 
 
@@ -44,6 +44,7 @@ const router = createBrowserRouter(
       <Route path='about' element={<About/>}/>
       <Route path='contact' element={<Contact/>}/>
       <Route path='github' element={<Github/>}/>
+      <Route path='Projects' element={<Projects/>}/>
      
       
       
