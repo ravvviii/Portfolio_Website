@@ -1,6 +1,11 @@
 import React from 'react';
+import 'react-notifications/lib/notifications.css';
+
+
 
 export default function Contact() {
+
+
     return (
         <div className="relative min-h-[700px] bg-white flex items-center justify-center sm:pt-0">
             <div className="max-w-6xl mx-auto sm:px-6 lg:px-8">
@@ -136,7 +141,10 @@ export default function Contact() {
                         </form>
                     </div>
                 </div>
+                
             </div>
+          
+
         </div>
     );
 }
