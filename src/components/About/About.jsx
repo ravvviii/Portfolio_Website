@@ -20,7 +20,7 @@ export default function About() {
                             Hi there! I'm Ravi Shankar Singh, also known as Ravvviii
                         </h2>
                         <p className="text-lg text-gray-700 mb-4">
-                            I'm currently a 6th-semester B.E. CSE student at Chandigarh University, where I'm passionate about exploring the vast world of technology and its applications.
+                            I'm currently a 7th-semester B.E. CSE student at Chandigarh University, where I'm passionate about exploring the vast world of technology and its applications.
                         </p>
                         <p className="text-lg text-gray-700 mb-4">
                             My journey in the tech world has led me to work on exciting projects like E-janausadhi, where I'm involved in developing a platform to help people order generic medicines online from Paradhamnatri Jan Ausadhi Kendra. It's rewarding to contribute to projects that have a positive impact on people's lives.
