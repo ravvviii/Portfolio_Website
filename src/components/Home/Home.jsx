@@ -13,8 +13,8 @@ export default function Home() {
                     <div className="max-w-xl sm:mt-1 mt-80 space-y-8 text-center sm:text-right sm:ml-auto">
                         <h2 className="text-4xl font-bold sm:text-5xl">
                             Ravi Shankar Singh
-                            <span className="hidden sm:block text-4xl">Student @</span>
-                            <span className="hidden sm:block text-2xl text-red-600">Chandigarh University</span>
+                            <span className="hidden sm:block text-4xl">Full-Stack Developer @</span>
+                            <span className="hidden sm:block text-2xl text-red-600">Animall</span>
                         </h2>
                     </div>
                 </div>
